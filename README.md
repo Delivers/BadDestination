@@ -1,4 +1,4 @@
-# BadDestination
+# Bad Destination - GeoSpoofer
 GeoSpoofer
 
 <img src="img/esp8266.png" alt="esp8266">
@@ -56,13 +56,13 @@ skylift create-sketch
 - --wigle_api_key ...
 
 ---
-## Example: accra, Lat: 5.5631, Long: -0.1918
+## Example: accra, lat: 5.5631, long: -0.1918
 - run sudo bash ./sketch.sh
 - Enter project name: accra
 - Enter Lat: 5.5631
 - Enter Long: -0.1918
-
-- creates files in: 
+---
+creates files in: 
 - accra.json
 - arduino/accra/ ...
 
@@ -88,3 +88,9 @@ skylift create-sketch	-i accra.json -o accra/ -board esp8266 --max-networks 15
 	- NodeMCU ESP32 is "ESP32 Dev Module"
 - Set upload speed in Tools > Upload Speed to maximum 460800
 
+---
+## Credits
+- https://github.com/Delivers/esp8266-geospoof
+- https://github.com/Delivers/skylift
+
+---
