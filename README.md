@@ -39,7 +39,7 @@ creates files in:
 - Set upload speed in Tools > Upload Speed to maximum 460800
 
 ---
-## Setup Arduino IDE
+## Credits
 - https://github.com/Delivers/esp8266-geospoof
 - https://github.com/Delivers/skylift
 
