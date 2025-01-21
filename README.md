@@ -68,8 +68,8 @@ creates files in:
 
 ---
 ## In .JSON File: (need to be automized)
-Add in "2" line: "filename": "accra",
-Replace in line "13", "networks" with "wifi".
+- Add in "2" line: "filename": "accra",
+- Replace in line "13", "networks" with "wifi".
 ---
  
 ## Usage
