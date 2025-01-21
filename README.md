@@ -40,5 +40,7 @@ creates files in:
 
 ---
 ## Setup Arduino IDE
-https://github.com/Delivers/esp8266-geospoof
-https://github.com/Delivers/skylift
+- https://github.com/Delivers/esp8266-geospoof
+- https://github.com/Delivers/skylift
+
+---
