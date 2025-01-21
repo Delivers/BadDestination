@@ -1,0 +1,2 @@
+run,filepath,name,location,max_networks,rssi_min,rssi_max,channel_min,channel_max
+1,/mnt/09a4f718-2a17-4910-8b4e-33d49acdb9b1/REPO/BadDestination/accra.json,accra,'accra',15,-95,-25,0,50
