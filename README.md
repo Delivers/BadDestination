@@ -38,3 +38,7 @@ creates files in:
 	- NodeMCU ESP32 is "ESP32 Dev Module"
 - Set upload speed in Tools > Upload Speed to maximum 460800
 
+---
+## Setup Arduino IDE
+https://github.com/Delivers/esp8266-geospoof
+https://github.com/Delivers/skylift
