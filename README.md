@@ -1,4 +1,4 @@
-# BadDestination
+# Bad Destination - GeoSpoofer
 GeoSpoofer
 
 <img src="img/esp8266.png" alt="esp8266">
